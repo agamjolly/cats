@@ -3,7 +3,9 @@ A project game inspired by Typeracer that allows users to compete in typing comp
 
 # Running the game
 To run the game, clone the repository using 
-` git clone https://www.github.com/ `
+``` bash
+git clone https://www.github.com/agamjolly/cats.git 
+```
 to create a remote repository on your computer.
 
 Use the following command
